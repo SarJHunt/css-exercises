@@ -9,3 +9,12 @@ p {
 .cooler {
     font-size: 36px;
 }
+#unique1 {
+    color: #00f;
+    font-size: 36px;
+}
+#unique2 {
+    background: #90ee90;
+    font-weight: 700;
+    font-size: 24px;
+}
