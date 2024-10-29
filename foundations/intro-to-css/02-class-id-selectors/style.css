@@ -1,0 +1,11 @@
+/* styles.css */
+
+p {
+    color: #000000;
+    background-color: #ffc0cb;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler {
+    font-size: 36px;
+}
